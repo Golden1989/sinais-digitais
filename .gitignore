@@ -1,0 +1,14 @@
+# Ambiente virtual e caches do Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Gravação original de 25 MB (o script scripts/preparar_audio.py baixa de novo)
+data/fonte/
+
+# Editor e sistema
+.vscode/
+.DS_Store
+Thumbs.db
