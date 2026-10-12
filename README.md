@@ -82,3 +82,7 @@ O zumbido de 60 Hz e o ruído branco **não** fazem parte da gravação: são ge
 | Zeros do notch | ±j377,0 rad/s (60 Hz) |
 | Polos do notch (Q = 30) | −6,28 ± j376,9 rad/s |
 | Polos do passa-baixas (6 kHz) | (−26,7 ± j26,7) × 10³ rad/s |
+# Link do Video 
+ -> https://drive.google.com/file/d/1axhVl8Kv4Nj6x3EbUyhlse8pSPA6VD_C/view?usp=sharing
+# Link do repositório do GitHub
+ ->https://github.com/Golden1989/sinais-digitais
